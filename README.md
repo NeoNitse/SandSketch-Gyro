@@ -14,8 +14,6 @@
 
 Pizarra de arena para Android hecha con Jetpack Compose. Inclinas el teléfono y el giroscopio mueve un cursor. Si tienes el dedo en la pantalla, el cursor va dejando granos de arena. Si sacudes el teléfono, la arena cae y el lienzo queda limpio.
 
-Práctica de Desarrollo de Aplicaciones Móviles II, Universidad Modular Abierta (UMA).
-
 ---
 
 ## Cómo se usa
@@ -62,14 +60,6 @@ com.sv.aimlabgyrotrainer
     ├── Charts.kt
     └── AnalysisModule.kt
 ```
-
----
-
-## Cómo ejecutarla
-
-1. Abre el proyecto en Android Studio.
-2. Conecta un teléfono físico con giroscopio y acelerómetro. En el emulador los sensores no se mueven bien y la app no se puede probar bien.
-3. Ejecuta la app (Run).
 
 ---
 
